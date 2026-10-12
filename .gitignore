@@ -1,0 +1,18 @@
+# Секреты и данные — никогда не публиковать
+.key
+*.key
+*.db
+*.db-journal
+*.sqlite3
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE и система
+.vscode/
+.idea/
+.DS_Store
